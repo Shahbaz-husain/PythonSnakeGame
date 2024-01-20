@@ -4,10 +4,13 @@ Welcome to the Snake Game! Challenge yourself to achieve the highest score by na
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygame if not already installed or you can directly run the exe file.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pygame if not already installed or you can install all modules from requirements.txt file.
 
 ```bash
 pip install pygame
+```
+```bash
+pip install -r requirements.txt
 ```
 
 ## Features
